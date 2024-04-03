@@ -1,0 +1,42 @@
+*{
+    /* universal padding and margin keep 0 */
+    padding:0;
+    margin:0  ;
+     color:rgb(249, 249, 249); 
+}
+/* Navigation bar header of amezon css */
+#navbar{
+    height:60ox;
+    background-color: black;
+    color:white;
+}
+
+button{
+    color:rgb(255, 255, 255);
+    background-color: rgb(228, 172, 2);
+}
+#logo{
+    color:rgb(228,172,2);
+    font-size:25px;
+}
+a{
+    margin-right:200px;
+    text-decoration: none;
+}
+
+.contentbox{
+    height:100px;
+    width:100px;
+    border:2px solid black;
+    display:inline-block;
+    /* background-color: rgba(255,0,0,0.4); */
+}
+/* footer */
+footer{
+    background-color:rgb(14, 13, 13);
+    color:rgb(204, 190, 109);
+    text-align:center ; 
+}
+#content{
+    height:500px;
+}

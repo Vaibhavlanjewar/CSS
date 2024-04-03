@@ -1,0 +1,39 @@
+#dispalyp{
+    display: inline; 
+     margin: 25px;
+    color:rgb(218, 194, 239);
+    background-color: rgb(0, 0, 0);
+    text-decoration: dashed;
+   padding: 25px; 
+    text-align: center;
+
+}
+button{
+    display:block;
+    color: brown;
+    background-color: bisque;
+    margin:  29px;
+}
+
+div{
+    width:100px;
+    height:100px;
+    margin:25px;
+    padding: 25px;
+    display: inline-block;
+}
+
+#box1{
+    background-color:rgba(34, 147, 26, 0.5);
+    /* display: none;   */
+    /* gayab .. remove space similary visibility:hidden and space is reserved  */
+}
+#box2{
+    background-color:rgba(34, 147, 26, 0.75);
+    /* visibility:hidden ; */
+}
+#box3{
+    background-color:rgba(34, 147, 26, 0.2);
+    color:rgba(169, 48, 48,);
+    text-align: center;
+}

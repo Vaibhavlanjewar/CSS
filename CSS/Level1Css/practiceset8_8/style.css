@@ -1,0 +1,14 @@
+.loader{
+    width:100px;
+    height:100px;
+    border-radius:50%;
+    border:20px solid #d18383;
+    border-top:20px solid #5425c1;
+    /* background-color:pink; */
+    /* background-color: rgb(189, 189, 142); */
+   animation:spin 3s ease-in-out  0s infinite normal;
+} 
+@keyframes spin{
+    from{transform:rotate(0deg);}
+    to{transform:rotate(360deg);}
+}

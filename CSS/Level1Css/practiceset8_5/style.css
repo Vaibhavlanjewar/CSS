@@ -1,0 +1,9 @@
+div{
+    height:200px;
+    width:200px;
+    background-image: url("cat.jpg");
+    background-size: cover;
+    color:rgb(255, 248, 248);
+    position:absolute;
+    right:0px;
+}
